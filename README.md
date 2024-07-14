@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrar Alkathami</h1>
-<h3 align="center">GenAI</h3>
+<h3 align="center">GenAI Developer s</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilabrar1&label=Profile%20views&color=0e75b6&style=flat" alt="ilabrar1" /> </p>
 
